@@ -1,0 +1,5 @@
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\bin\Release\lexical analysis.exe.config
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\bin\Release\lexical analysis.exe
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\bin\Release\lexical analysis.pdb
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\obj\Release\lexical analysis.exe
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\obj\Release\lexical analysis.pdb

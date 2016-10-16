@@ -1,0 +1,6 @@
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\bin\Debug\lexical analysis.exe.config
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\bin\Debug\lexical analysis.exe
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\bin\Debug\lexical analysis.pdb
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\obj\Debug\lexical analysis.exe
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\obj\Debug\lexical analysis.pdb
+G:\Work\Compiler - TestLang\lexical analysis\lexical analysis\obj\Debug\lexical analysis.csprojResolveAssemblyReference.cache
